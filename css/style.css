@@ -1,19 +1,27 @@
 body {
-
-    background-color: #ADD8E6;
-  }
-hr{
-    width: 15%;
-    border-style: dotted none none;
-    border-width: 10px;
-    border-color: #8B4513;
-  }
-h1{
-  color: #20B2AA;
-
-
+  background-color: #ADD8E6;
 }
-h3{
-  color: #20B2AA;
 
+hr {
+  width: 15%;
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color: #8B4513;
+}
+
+h1 {
+  color: #20B2AA;
+}
+
+h3:hover {
+  color:#072227;
+}
+.g {
+  color:#AEFEFF
+}
+.gr{
+  color: #4FBDBA
+}
+.gre{
+  color: #35858B
 }
