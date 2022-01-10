@@ -10,18 +10,21 @@ hr {
 }
 
 h1 {
-  color: #20B2AA;
+  color: #35858B;
 }
 
 h3:hover {
-  color:#072227;
+  color: #072227;
 }
+
 .g {
-  color:#AEFEFF
+  color: #AEFEFF
 }
-.gr{
+
+.gr {
   color: #4FBDBA
 }
-.gre{
+
+.gre {
   color: #35858B
 }
