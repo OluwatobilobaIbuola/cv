@@ -1,5 +1,5 @@
 body {
-  background-color: #ADD8E6;
+  background-color: #92A9BD;
 }
 
 hr {
@@ -10,7 +10,7 @@ hr {
 }
 
 h1 {
-  color: #35858B;
+  color: #AEFEFF;
 }
 
 h3:hover {
@@ -21,13 +21,13 @@ h3:hover {
   color: #AEFEFF
 }
 
-.gr {
+/*.gr {
   color: #4FBDBA
 }
 
 .gre {
   color: #35858B
-}
+}*/
 .myimage{
   border-radius: 100%;
 }
