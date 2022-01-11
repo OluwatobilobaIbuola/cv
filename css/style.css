@@ -31,3 +31,7 @@ h3:hover {
 .myimage{
   border-radius: 100%;
 }
+div{
+  margin-right: 200px;
+  margin-left: 200px;
+}
